@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersonnect",
+        "uuid": 29695092,
+        "checksum": "e2bk1"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
